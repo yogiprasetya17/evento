@@ -1,0 +1,13 @@
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDzJf-JzC00lNQE-dbB2EMclTzBC4XfeWQ",
+    authDomain: "yogiprasetya-84280.firebaseapp.com",
+    databaseURL: "https://yogiprasetya-84280.firebaseio.com",
+    projectId: "yogiprasetya-84280",
+    storageBucket: "yogiprasetya-84280.appspot.com",
+    messagingSenderId: "371758995832"
+  };
+  firebase.initializeApp(config);
+</script>
